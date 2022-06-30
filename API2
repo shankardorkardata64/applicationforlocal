@@ -1,0 +1,7 @@
+
+API 1
+Name:-Login API 
+URL :-http://48ba-2409-4042-d1b-43d4-591c-a121-ca7c-4802.ngrok.io/poppy/api/auth/login
+Method :-POST
+INPut format :- JSON
+input varial name:-username,password

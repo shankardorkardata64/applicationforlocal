@@ -1,0 +1,116 @@
+Features
+
+User login 
+There are 5 types of user login we will provide
+
+Talent 
+Client/Contact
+Recurtor
+Contractor
+Admin
+
+
+User Registration
+  This is one of the features which is be available for talent only
+ 
+Forgot password
+   If password is lost by any  user, then this Features will help to set new password
+
+
+Different types of search function we will use here so as per as combination of data coming from user system match the data  And give the best search result
+ 
+Responsive Web App:-
+     Responsive web panel which will fit all devices  and support all major browsers
+
+Import Resume in bulk 
+      Import Resume or talent with the help of data parsing Here we are going parse remote
+       data in the form of of  text , csv, docx, and other job portal  data  and 
+       store in the our database as the talent.
+
+Resume Generator:
+       If in case talent is not provided any resume that time system will auto generate its resume automatically based on his/her basic detail
+
+Online Exam of Applicant/talent
+      This is for online test if applicable for talent
+
+Feedback form Generator for contact/Manager
+      If interview done in is form will used to take feedback from manager/contact 
+
+Take total database backup from admin panel
+       This will take database  backup , here you can schedule the  task to take backup automatically 
+
+Restore deleted company/talent and  other user and its user data
+      One of the most important feature  , in our system no any data will delete permanently So we can restore back it 
+
+Invoice generation system 
+      This will be used in billing system(module) , this is generate the invoice automatically based on approved timesheet  and send to   client to pay , also send email reminder to client  and admin 
+
+Third -party integration
+         We will add the Paylocity  for  those  clients which will add in  this system
+        We will add also add paychex flex api for those clients which will add in  this system
+
+Email and message template 
+        Here we can set the  unique mail and message template    
+
+Send bulk emails and message to users 
+        here we can send the bulk email and message and notication to user
+
+Logo Editor 
+        Here you can set  or  edit old logo
+
+
+Security related Features
+
+1.All user and clinet data in database is in encripted format which  is no one decrypt
+
+2.Every Request come from web application and from apps (android and IOS ) is served  with auth  token only 
+  Without auth token data will not move from server to  web, android and IOS app and viceversa
+
+3.Email notication will send if   user perform any securilty realed action
+  These action will be like this  change password , forgot password , evey login , 2FA auth failed,
+  
+4.IP Address Tracking with Request and if any suspect activity found that IP address
+   Will block
+
+5.Activity log will maintain for all request
+
+
+
+Technology Will use
+    Web App Frontend - Laravel(Php Version 7.3) 
+    Android /iOS  Applications - Flutter
+    Backend - My SQL
+    Notification: Firebase
+    Security Features: Google 2FA  For all Users
+    Messaging Kit:- Twilio
+    SMTP :- SendGrid
+
+
+
+Server Requirements 
+    Dedicated server 
+    Space: 200 GB
+    Ram: 8 GB 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
